@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AaEfrei/Devops%20and%20MLOps/project1028/my_iris_project/mlruns/0/6d36179b67e044d587a731702e9e06a6/artifacts
+end_time: 1761567797236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d36179b67e044d587a731702e9e06a6
+run_name: legendary-worm-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761567794831
+status: 3
+tags: []
+user_id: fzh13

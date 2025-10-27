@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AaEfrei/Devops%20and%20MLOps/project1028/my_iris_project/mlruns/0/4ec2ed3db02644739d8b86f7de590a01/artifacts
+end_time: 1761568128667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ec2ed3db02644739d8b86f7de590a01
+run_name: fearless-horse-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761568126052
+status: 3
+tags: []
+user_id: fzh13

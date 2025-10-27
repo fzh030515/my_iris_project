@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AaEfrei/Devops%20and%20MLOps/project1028/my_iris_project/mlruns/0/f1ee144c390d4541a91910770b32d170/artifacts
+end_time: 1761568147528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1ee144c390d4541a91910770b32d170
+run_name: fearless-shoat-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761568144952
+status: 3
+tags: []
+user_id: fzh13

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/AaEfrei/Devops%20and%20MLOps/project1028/my_iris_project/mlruns/0/models/m-60f2619272174945ad0445fb4c5b8383/artifacts
+creation_timestamp: 1761567565792
+experiment_id: '0'
+last_updated_timestamp: 1761567568244
+model_id: m-60f2619272174945ad0445fb4c5b8383
+model_type: null
+name: model
+source_run_id: 6a03a6c4113b4a6cbd6255fde30cbbb1
+status: 2
+status_message: null

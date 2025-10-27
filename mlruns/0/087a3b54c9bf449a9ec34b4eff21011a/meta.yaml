@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AaEfrei/Devops%20and%20MLOps/project1028/my_iris_project/mlruns/0/087a3b54c9bf449a9ec34b4eff21011a/artifacts
+end_time: 1761566869346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 087a3b54c9bf449a9ec34b4eff21011a
+run_name: unequaled-stag-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761566867502
+status: 3
+tags: []
+user_id: fzh13

@@ -1,0 +1,4 @@
+__pycache__/
+.env
+mlruns/          # MLflow运行记录
+.dvc/tmp/        # DVC临时文件
