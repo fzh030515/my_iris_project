@@ -79,17 +79,22 @@ This project uses the Git branching strategy, where different branches trigger s
 | **main** | 推送代码或 PR 合并到 `main`（受保护） | 运行所有测试并部署到生产 | 正式发布 |
 
 Pipeline configuration is based on GitHub Actions events (see [CI/CD Configuration](.github/workflows/ci-cd.yml)), ensuring that only compliant code gets into production.
+
 管道配置基于 GitHub Actions 事件（见 [CI/CD 配置](.github/workflows/ci-cd.yml)），确保只有合规代码能进入生产。
 
 Project Quick Start-Install 
+
 -dependencies: `pip install -r requirements.txt`
+
 -Run training: `python src/main.py--data-version v1`
+
 -View MLflow experiments: `mlflow ui`
 
 项目快速开始
 - 安装依赖：`pip install -r requirements.txt`
 - 运行训练：`python src/main.py --data-version v1`
 - 查看 MLflow 实验：`mlflow ui`
+
 
 
 
