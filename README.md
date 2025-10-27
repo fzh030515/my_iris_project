@@ -1,4 +1,5 @@
 This project is a machine learning application (irises classifier) that demonstrates the complete DevOps/MLOps process, including version control (Git, DVC), CI/CD (GitHub Actions), containerization (Docker), and experiment tracking (MLflow).
+
 本项目是一个机器学习应用（鸢尾花分类器），演示完整的 DevOps/MLOps 流程，包括版本控制（Git、DVC）、CI/CD（GitHub Actions）、容器化（Docker）和实验跟踪（MLflow）。
 
 The code for this project follows an automated pipeline from submission to production environment to ensure reliability and quality:
@@ -89,4 +90,5 @@ Project Quick Start-Install
 - 安装依赖：`pip install -r requirements.txt`
 - 运行训练：`python src/main.py --data-version v1`
 - 查看 MLflow 实验：`mlflow ui`
+
 
