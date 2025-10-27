@@ -66,7 +66,7 @@ This project uses the Git branching strategy, where different branches trigger s
 
 | branch type| trigger condition| pipe action| goal| 
 |----------|-----------|-----------|-------| 
-| **feature/**   |Run basic tests and builds| Verify new features without deploying| 验证新功能，不部署 | 
+| **feature/**   |Run basic tests and builds| Verify new features without deploying| Verify new features without deploying  | 
 | **dev** |Push code or PR merge into dev| Run full tests, builds, and code reviews| Integrated functionality, ready for pre-release| 
 | **staging** |Push code or PR merged into staging| Run tests and deploy to pre-production| simulated production test| 
 | **main** |Push code or PR merged into `main`(protected)| Run all tests and deploy to production| release officially| 
@@ -90,5 +90,6 @@ Project Quick Start-Install
 - 安装依赖：`pip install -r requirements.txt`
 - 运行训练：`python src/main.py --data-version v1`
 - 查看 MLflow 实验：`mlflow ui`
+
 
 
